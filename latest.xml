@@ -2,6 +2,6 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
     <app appid='ofgoppmkoiacghnjcpbcbdlgomdmhojk'>
         <updatecheck codebase='https://github.com/e83imb/PKU_Hole_Helper/releases/download/latest/dist.crx'
-                     version='5.5.2'/>
+                     version='5.5.4'/>
     </app>
 </gupdate>
